@@ -7,3 +7,5 @@ npm run dev
 # or
 yarn dev
 ```
+
+## Folder structure
