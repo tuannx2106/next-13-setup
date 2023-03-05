@@ -1,4 +1,4 @@
-import { Button, ButtonIcon } from 'components/Button';
+import { Button, ButtonIcon } from 'components/atoms';
 import Link from 'next/link';
 import React from 'react';
 
