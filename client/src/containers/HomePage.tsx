@@ -1,8 +1,9 @@
 import { Button, ButtonIcon } from 'components/atoms';
+import { NextPage } from 'next';
 import Link from 'next/link';
 import React from 'react';
 
-const HomePage = () => {
+const HomePage: NextPage = () => {
   return (
     <div>
       HomePage
